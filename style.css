@@ -1,0 +1,50 @@
+.head{
+    background-color: beige;
+}
+.header-bottom {
+    margin: 0px;
+}
+.left-width span{
+    color:orange;
+}
+.btn-you{
+    background-color: orange;
+}
+.right-width img{
+    float:right;
+}
+.padding-bottom-header{
+    padding:100px 0px;
+}
+.logo-color{
+    color:orange !important;
+    font-weight:bold;
+}
+.custom-flex{
+    display:flex;
+    gap:5px;
+}
+.img-top-color{
+    background-color:beige;
+    padding:20px;
+    height:60%;
+}
+.about-product{
+    background-color:#F5F5DC ;
+}
+.subscribe{
+    width:50%;
+    margin:auto;
+}
+.footer-container{
+    padding: 20px 0;
+    text-align: center;
+}
+a, .footer-design{
+    text-decoration: none;
+    padding:0 5px;
+    transition: 0.5s;
+}
+.link-light:focus, .link-light:hover{
+    color:#FFCA2C !important;
+}
